@@ -17,7 +17,7 @@ import difflib
 
 """# *Reading the Data from CSV file*"""
 
-movies_data = pd.read_csv('/content/movies_data.csv')
+movies_data = pd.read_csv('movies_data.csv')
 
 movies_data.head()
 
